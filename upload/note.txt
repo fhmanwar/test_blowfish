@@ -1,0 +1,68 @@
+conference [
+Judul
+pendahuluan berisi penjelasan
+metode yang diusulkan
+alur proses
+tabel hasil
+kesimpulan saran
+daftar pustaka
+ucapan terima kasih
+]
+
+#selasa
+AI [
+buat program CF 
+, Fuzzy Logic
+]
+
+pcdl [
+tugas akhir kurang akurasi
+]
+
+#rabu
+wmc [
+
+]
+
+ppl [
+- kurang android
+]
+
+#kamis
+sister [
+- tugas akhir
+]
+
+datmin [
+- artikel cluster bahasa inggris
+]
+
+#jumat
+kripto [
+- presentasi
+]
+
+metopel [
+- presentasi
+]
+
+
+#catatan biasa
+Jangan takut pada kegagalan, takutlah pada kesempatan yang terlewatkan
+
+Function Rest API
+Get = read
+put = update
+delete = delete
+post = create 
+
+#Konsep MVP = Model View Presenter
+CONTROLLER/PRESENTER = ADAPTER
+MODEL = LISTITEM
+VIEWS = FRAGMENT/ACTIVITY
+
+RECYCLEITEM, LISTVIEW itu cuma library bantuan untuk nampilin data biar rapi
+
+422 : not found
+200 : sukses
+500 : internal server error
